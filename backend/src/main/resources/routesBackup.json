@@ -1,0 +1,284 @@
+[
+    {
+        "tripCode": "c18da25f-5da4-4e8d-97f2-2c6a3c79f153",
+        "routeId": "91D",
+        "from": "Dundee",
+        "to": "St-Andrews",
+        "totalDurationInMinutes": 60,
+        "daysOfOperation": [
+            "Monday",
+            "Wednesday",
+            "Friday",
+            "Saturday"
+        ],
+        "timingsPerDay": [
+            {
+                "day": "Monday",
+                "timing": [
+                    "10:00",
+                    "11:10"
+                ]
+            },
+            {
+                "day": "Wednesday",
+                "timing": [
+                    "10:00",
+                    "11:10"
+                ]
+            },
+            {
+                "day": "Friday",
+                "timing": [
+                    "10:00",
+                    "12:10"
+                ]
+            },
+            {
+                "day": "Saturday",
+                "timing": [
+                    "10:00",
+                    "11:10"
+                ]
+            }
+        ],
+        "stops": [
+            {
+                "stopId": "1",
+                "name": "Dundee",
+                "coordinates": {
+                    "latitude": 0.0,
+                    "longitude": 0.0
+                },
+                "travelTimeInMinutes": 0
+            },
+            {
+                "stopId": "2",
+                "name": "David Russell Apartment",
+                "coordinates": {
+                    "latitude": 0.0,
+                    "longitude": 0.0
+                },
+                "travelTimeInMinutes": 10
+            },
+            {
+                "stopId": "3",
+                "name": "Buchanan Garden",
+                "coordinates": {
+                    "latitude": 0.0,
+                    "longitude": 0.0
+                },
+                "travelTimeInMinutes": 15
+            },
+            {
+                "stopId": "4",
+                "name": "Argyl Cross",
+                "coordinates": {
+                    "latitude": 0.0,
+                    "longitude": 0.0
+                },
+                "travelTimeInMinutes": 25
+            },
+            {
+                "stopId": "5",
+                "name": "HepBurn Garden",
+                "coordinates": {
+                    "latitude": 0.0,
+                    "longitude": 0.0
+                },
+                "travelTimeInMinutes": 55
+            },
+            {
+                "stopId": "6",
+                "name": "St-Andrews",
+                "coordinates": {
+                    "latitude": 0.0,
+                    "longitude": 0.0
+                },
+                "travelTimeInMinutes": 60
+            }
+        ]
+    },
+    {
+        "tripCode": "0779aca2-7f96-4b0c-adab-7b823769686e",
+        "routeId": "91D",
+        "from": "St-Andrews",
+        "to": "Dundee",
+        "totalDurationInMinutes": 60,
+        "daysOfOperation": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "timingsPerDay": [
+            {
+                "day": "Monday",
+                "timing": [
+                    "10:00",
+                    "11:10"
+                ]
+            },
+            {
+                "day": "Tuesday",
+                "timing": [
+                    "10:00",
+                    "22:10"
+                ]
+            },
+            {
+                "day": "Thursday",
+                "timing": [
+                    "10:00",
+                    "11:10"
+                ]
+            },
+            {
+                "day": "Friday",
+                "timing": [
+                    "10:00",
+                    "11:10"
+                ]
+            },
+            {
+                "day": "Saturday",
+                "timing": [
+                    "10:00",
+                    "11:10"
+                ]
+            }
+        ],
+        "stops": [
+            {
+                "stopId": "4",
+                "name": "St Andrews",
+                "coordinates": {
+                    "latitude": 0.0,
+                    "longitude": 0.0
+                },
+                "travelTimeInMinutes": 5
+            },
+            {
+                "stopId": "1",
+                "name": "David Russell Apartment",
+                "coordinates": {
+                    "latitude": 56.33761402369843,
+                    "longitude": -2.8075423186445336
+                },
+                "travelTimeInMinutes": 10
+            },
+            {
+                "stopId": "2",
+                "name": "Buchanan Garden",
+                "coordinates": {
+                    "latitude": 56.33761402369843,
+                    "longitude": -2.8075423186445336
+                },
+                "travelTimeInMinutes": 15
+            },
+            {
+                "stopId": "3",
+                "name": "Argyl Cross",
+                "coordinates": {
+                    "latitude": 10.0,
+                    "longitude": 10.0
+                },
+                "travelTimeInMinutes": 25
+            },
+            {
+                "stopId": "4",
+                "name": "Dundee",
+                "coordinates": {
+                    "latitude": 56.335608815850584,
+                    "longitude": -2.8180200727002784
+                },
+                "travelTimeInMinutes": 60
+            }
+        ]
+    },
+    {
+        "tripCode": "01aaa77b-6fd8-4950-bf59-35806bae5cca",
+        "routeId": "94D",
+        "from": "St-Andrews",
+        "to": "Dundee",
+        "totalDurationInMinutes": 25,
+        "daysOfOperation": [
+            "Monday",
+            "Saturday"
+        ],
+        "timingsPerDay": [
+            {
+                "day": "Monday",
+                "timing": [
+                    "10:10",
+                    "12:10",
+                    "15:10"
+                ]
+            },
+            {
+                "day": "Saturday",
+                "timing": [
+                    "12:10",
+                    "14:10",
+                    "21:10"
+                ]
+            }
+        ],
+        "stops": [
+            {
+                "stopId": null,
+                "name": "David Russell Apartment",
+                "coordinates": {
+                    "latitude": 0.0,
+                    "longitude": 0.0
+                },
+                "travelTimeInMinutes": 10
+            },
+            {
+                "stopId": null,
+                "name": "Buchanan Garden",
+                "coordinates": {
+                    "latitude": 0.0,
+                    "longitude": 0.0
+                },
+                "travelTimeInMinutes": 15
+            },
+            {
+                "stopId": null,
+                "name": "Argyl Cross",
+                "coordinates": {
+                    "latitude": 0.0,
+                    "longitude": 0.0
+                },
+                "travelTimeInMinutes": 25
+            }
+        ]
+    },
+    {
+        "tripCode": "780b6805-aaa8-4004-88b9-0ef49a20a373",
+        "routeId": "91D",
+        "from": "Edinburgh",
+        "to": "St-Andrews",
+        "totalDurationInMinutes": 0,
+        "daysOfOperation": [
+            "Sunday"
+        ],
+        "timingsPerDay": [
+            {
+                "day": "Sunday",
+                "timing": [
+                    "11:00"
+                ]
+            }
+        ],
+        "stops": [ {
+            "stopId": null,
+            "name": "Argyl Cross",
+            "coordinates": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            },
+            "travelTimeInMinutes": 25
+        }]
+    }
+]

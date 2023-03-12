@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Dundee",
+        "coordinates": {
+            "latitude": 56.335608815850584,
+            "longitude": -2.8180200727002784
+        }
+    },
+    {
+        "name": "David Russell Apartment",
+        "coordinates": {
+            "latitude": 56.33761402369843,
+            "longitude": -2.8075423186445336
+        }
+    },
+    {
+        "name": "Buchanan Garden",
+        "coordinates": {
+            "latitude": 56.33761402369843,
+            "longitude": -2.8075423186445336
+        }
+    },
+    {
+        "name": "Argyl Cross",
+        "coordinates": {
+            "latitude": 10.0,
+            "longitude": 10.0
+        }
+    },
+    {
+        "name": "HepBurn Garden",
+        "coordinates": {
+            "latitude": 12.0,
+            "longitude": 12.0
+        }
+    },
+    {
+        "name": "St-Andrews",
+        "coordinates": {
+            "latitude": 12.0,
+            "longitude": 12.0
+        }
+    }
+]
