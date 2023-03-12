@@ -6,7 +6,7 @@ Spring + Nuxtjs API and SPA system.
 
 This is a test API and SPA using Spring boot framework for API and Nuxtjs for SPA.
 
-![Uploading Screenshot 2023-03-12 at 01.36.34.png…]()
+<img width="1787" alt="Screenshot 2023-03-12 at 01 36 34" src="https://user-images.githubusercontent.com/118636537/224519771-90adfc94-dc73-460c-b086-a91a5ece805f.png">
 
 ## API Documentation
 
