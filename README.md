@@ -10,6 +10,15 @@ This is a test API and SPA using Spring boot framework for API and Nuxtjs for SP
 
 https://documenter.getpostman.com/view/23875384/2s93CSqBLL
 
+## Getting started API server
+
+### Running API server local
+
+```
+cd backend
+mvn spring-boot:run
+```
+
 ## Getting started Web-UI
 
 ### for mac
