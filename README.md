@@ -8,6 +8,8 @@ This is a test API and SPA using Spring boot framework for API and Nuxtjs for SP
 
 <img width="1787" alt="Screenshot 2023-03-12 at 01 36 34" src="https://user-images.githubusercontent.com/118636537/224519771-90adfc94-dc73-460c-b086-a91a5ece805f.png">
 
+<img width="1789" alt="Screenshot 2023-03-12 at 01 52 48" src="https://user-images.githubusercontent.com/118636537/224519859-cf231b84-8cf8-4009-a2bf-93e914ff8d5c.png">
+
 ## API Documentation
 
 https://documenter.getpostman.com/view/23875384/2s93CSqBLL
